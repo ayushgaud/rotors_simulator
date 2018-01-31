@@ -73,7 +73,7 @@ Installation Instructions
 
  ```
  $ cd ~/catkin_ws/src
- $ git clone git@github.com:ethz-asl/rotors_simulator.git
+ $ git clone git@github.com:ayushgaud/rotors_simulator.git
  $ git clone git@github.com:ethz-asl/mav_comm.git
  ```
   > **Note** On OS X you to install yaml-cpp using Homebrew `brew install yaml-cpp`.
